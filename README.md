@@ -1,8 +1,6 @@
 # BDAD
 Exams SQL solutions for the BDAD curricular unit.
 
-**Final Grade**: 17
-
 ## Project Infos
 * Date: 2nd Year, 2st Semester, 2018/2019
 * Course: Base de Dados (BDAD) | Data Base
